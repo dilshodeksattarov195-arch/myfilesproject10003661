@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepelete",
+        "uuid": 2079448,
+        "checksum": "8urhdo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
